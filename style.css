@@ -1,9 +1,65 @@
 
 
-  .title_image{
-  background-image: url("https://i.ytimg.com/vi/uzzTxmedm9o/maxresdefault.jpg");
+.title_image{
+  background-image: url("https://images3.alphacoders.com/373/37395.jpg");
 width: auto;
 height: 100px;
-body {
-    color: blue;
 }
+
+
+.main_container{
+
+}
+ body{
+   background-image: url("https://images3.alphacoders.com/373/37395.jpg");
+   height:50%
+
+ }
+h1{
+  text-align: right;
+  font-family:cursive;
+  margin-right: 100px;
+  font-size: 80px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111
+}
+
+p{
+  text-align: right;
+  margin-right: 100px;
+  font-family:serif;
+  font-size: 20px;
+  color: #2b3742;
+}
+  img{
+    border-radius: 100%;
+    border-style: solid;
+    border: 15;
+    border-color: black;
+    align:top;
+    display: block;
+    margin-top: 5px;
+
+  }
