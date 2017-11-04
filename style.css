@@ -48,7 +48,7 @@ li a:hover {
 
 p{
   text-align: right;
-  margin-right: 100px;
+  margin-right: 117px;
   font-family:serif;
   font-size: 20px;
   color: #2b3742;
@@ -57,9 +57,15 @@ p{
     border-radius: 100%;
     border-style: solid;
     border: 15;
-    border-color: black;
-    align:top;
+    border-color: skyblue;
+    align:right;
     display: block;
     margin-top: 5px;
+}
 
-  }
+.first-box-content{
+}
+
+.second-box-content{
+  float: inherit;
+}
