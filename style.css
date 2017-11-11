@@ -15,7 +15,7 @@ height: 100px;
    height:50%
 
  }
-h1{
+h{
   text-align: right;
   font-family:cursive;
   margin-right: 100px;
@@ -47,11 +47,11 @@ li a:hover {
 }
 
 p{
-  text-align: right;
-  margin-right: 117px;
+  margin-right: 116px;
   font-family:serif;
   font-size: 20px;
-  color: #2b3742;
+  color: #2b754b;
+  line-height:200%;
 }
   img{
     border-radius: 100%;
@@ -63,9 +63,9 @@ p{
     margin-top: 5px;
 }
 
-.first-box-content{
+.MyName{
+  float: left;
 }
-
-.second-box-content{
-  float: inherit;
+.myPic{
+  float: right;
 }
